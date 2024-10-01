@@ -7,4 +7,5 @@ Main features:
 -Adds custom functions to the Pandas objects specifically to make working with F1 data quick and simple
 -Integration with Matplotlib to facilitate data visualization
 -Implements caching for all API requests to speed up your scripts
-FastF1 is open source. Everyone can download it onto a jupyter notebook and use it to access telemetry data. After
+FastF1 is open source. Everyone can download it onto a jupyter notebook and use it to access telemetry data. The data sources are from FastF1 telemetery.
+
